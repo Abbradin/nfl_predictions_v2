@@ -1,0 +1,9 @@
+{
+  "start_season": 2015,
+  "end_season": 2026,
+  "backtest_seasons": [
+    2026
+  ],
+  "n_games": 3060,
+  "n_features": 394
+}
